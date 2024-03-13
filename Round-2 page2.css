@@ -1,6 +1,7 @@
 body {
     background-image: url('./round\ 2H.png'); 
-    background-size: cover; 
+    background-size: 1420px;
+    background-repeat: no-repeat;
   }
 
   .card { 
@@ -25,4 +26,8 @@ body {
     margin-top: -222px;
     opacity: 0.09;
   }
+
+  .python{
+    margin-top: 10px;
+ }
   

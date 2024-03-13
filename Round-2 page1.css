@@ -1,6 +1,7 @@
 body {
     background-image: url('./round 2A.png'); 
-    background-size: 100%; 
+    background-size: 1450px;
+    background-repeat: no-repeat;
     
   }
 
@@ -31,3 +32,7 @@ body {
     color: #9998cc;
     cursor: pointer;
   }
+
+ .python{
+    margin-top: 10px;
+ }
